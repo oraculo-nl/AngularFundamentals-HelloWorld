@@ -7,4 +7,7 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'AngularFundamentals-HelloWorld';
+  naam = 'Java Academy'
+  adres = 'P.J. Oudweg 4'
+  woonplaats = 'Almere'
 }
